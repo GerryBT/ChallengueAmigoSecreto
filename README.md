@@ -28,7 +28,6 @@ Requisitos
 
 Un navegador web moderno compatible con JavaScript.
 
-
 Autor
 
 Gerardo Barragan Tovar
